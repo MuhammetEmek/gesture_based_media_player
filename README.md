@@ -1,6 +1,6 @@
 # Gesture Based Media Player
 
-In this project, here we mainly intend to detect human gesture recognizing by camera; controlling some functions such as start, stop, voice control. Hand gestures are the main detection point here and it needs to be done quite sensitive and critical. Finger position and hand position in space as two intersecting planes is critical for determination of move.
+In this project, here I mainly intend to detect human gesture recognizing by camera; controlling some functions such as start, stop, voice control. Hand gestures are the main detection point here and it needs to be done quite sensitive and critical. Finger position and hand position in space as two intersecting planes is critical for determination of move.
 
 # Tools & Techniques
 
@@ -38,6 +38,8 @@ Below are the some screenshots of the application for different hand gestures.
 
 ![Play](https://github.com/MuhammetEmek/gesture_based_media_player/blob/main/screenshots/Play.png)
 
-![VolumeUp](https://github.com/MuhammetEmek/gesture_based_media_player/blob/main/screenshots/VolumeUp.png)
+![VolumeUp](https://github.com/MuhammetEmek/gesture_based_media_player/blob/main/screenshots/Volume_Up.png)
 
-![VolumeDown](https://github.com/MuhammetEmek/gesture_based_media_player/blob/main/screenshots/VolumeDown.png)
+![VolumeDown](https://github.com/MuhammetEmek/gesture_based_media_player/blob/main/screenshots/Volume_Down.png)
+
+![Mute](https://github.com/MuhammetEmek/gesture_based_media_player/blob/main/screenshots/Mute.png)
