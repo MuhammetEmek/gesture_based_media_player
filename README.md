@@ -42,4 +42,4 @@ Below are the some screenshots of the application for different hand gestures.
 
 ![VolumeDown](https://github.com/MuhammetEmek/gesture_based_media_player/blob/main/screenshots/Volume_Down.png)
 
-![Mute](https://github.com/MuhammetEmek/gesture_based_media_player/blob/main/screenshots/Mute.png)
+![Mute](https://github.com/MuhammetEmek/gesture_based_media_player/blob/main/screenshots/Volume_Mute.png)
